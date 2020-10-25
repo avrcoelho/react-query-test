@@ -33,7 +33,7 @@ function App() {
     try {
       await mutate({ url: 'products', product })
 
-
+      
     } catch (error) {
       console.error(error);
     }
