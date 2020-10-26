@@ -34,6 +34,13 @@
       "price": 50.9,
       "category_id": "meias",
       "slug": "meias-node-js"
+    },
+    {
+      "title": "6",
+      "price": 6,
+      "category_id": "6",
+      "slug": "6",
+      "id": 6
     }
   ]
 }
